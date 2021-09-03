@@ -65,3 +65,8 @@ Cons
 ---
 
 In many applications, such as website security, there was a need to encrypt the data at a high speed and the verification of identity was also required to ensure the users that they’re talking to the intended entity. That’s how the idea of hybrid encryption was born.
+
+
+## Resources
+1. [Encryption](https://www.youtube.com/watch?v=Z3FwixsBE94)
+2. [Diffe Hellman](https://www.youtube.com/watch?v=NmM9HA2MQGI)
